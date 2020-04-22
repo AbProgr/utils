@@ -1,2 +1,3 @@
 # utils
-collection of utilities
+
+collection of utilities and shared configs

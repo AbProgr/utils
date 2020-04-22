@@ -1,0 +1,30 @@
+{
+  "name": "@ab.progr/eslint-config-node-extended",
+  "version": "1.0.1",
+  "description": "zero configuration and ready to use eslint config for node env",
+  "main": "index.js",
+  "engines": {
+    "node": ">=12.16.0"
+  },
+  "keywords": [
+    "ab.progr",
+    "eslintconfig",
+    "eslint"
+  ],
+  "author": "Abhijeet <ab.progr@gmail.com>",
+  "homepage": "https://github.com/AbProgr/utils/tree/eslint-config-node-extended#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AbProgr/utils.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "eslint": ">=6.8.0",
+    "eslint-config-airbnb-base": ">=14.1.0",
+    "eslint-plugin-import": ">=2.20.2",
+    "eslint-config-prettier": ">=6.11.0",
+    "eslint-plugin-node": ">=11.1.0",
+    "eslint-plugin-prettier": ">=3.1.3",
+    "eslint-plugin-security": ">=1.4.0"
+  }
+}
