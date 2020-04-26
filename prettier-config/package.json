@@ -1,0 +1,24 @@
+{
+  "name": "@ab.progr/prettier-config",
+  "version": "1.0.0",
+  "description": "shareable custom config for prettier",
+  "main": "index.js",
+  "engines": {
+    "node": ">=12.16.0"
+  },
+  "keywords": [
+    "ab.progr",
+    "prettier",
+    "config"
+  ],
+  "author": "Abhijeet <ab.progr@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/AbProgr/utils/tree/master/prettier-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AbProgr/utils.git"
+  },
+  "dependencies": {
+    "prettier": ">=2.0.5"
+  }
+}
