@@ -33,4 +33,4 @@ module.exports = {
 
 ### DEMO
 
-[Node-Express Boilerplate](https://github.com/AbProgr/boilerplates/blob/master/node/node-express/.eslintrc.json)
+[Node-Express Boilerplate](https://github.com/AbProgr/boilerplates/blob/master/node/node-express/.prettierrc.json)

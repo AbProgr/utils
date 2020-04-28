@@ -1,6 +1,6 @@
 {
   "name": "@ab.progr/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "shareable custom config for prettier",
   "main": "index.js",
   "engines": {
