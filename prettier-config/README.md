@@ -22,7 +22,7 @@ yarn add @ab.progr/prettier-config -D
 
 ```js
 // if using .prettierrc or .prettierrc.json, add this line
-"@ab.progr/prettier-config";
+"@ab.progr/prettier-config"
 
 // to extend the configuration to overwrite some properties from the shared configuration use .prettierrc.js
 module.exports = {

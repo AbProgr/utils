@@ -1,0 +1,24 @@
+{
+  "name": "@ab.progr/nodemon-config",
+  "version": "1.0.1",
+  "description": "shareable config for nodemon",
+  "main": "index.js",
+  "engines": {
+    "node": ">=12.16.0"
+  },
+  "keywords": [
+    "ab.progr",
+    "nodemon",
+    "config"
+  ],
+  "author": "Abhijeet <ab.progr@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/AbProgr/utils/tree/master/nodemon-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AbProgr/utils.git"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
