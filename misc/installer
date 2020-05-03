@@ -60,10 +60,11 @@ echo "==========Git installed with version============= $(git --version)!"
 echo "==========***************============="
 echo
 echo "==========***************============="
-echo "==========Installing  Google Chrome============="
+echo "==========Installing Postman============="
 echo "==========***************============="
+sudo curl https://gist.githubusercontent.com/SanderTheDragon/1331397932abaa1d6fbbf63baed5f043/raw/postman-deb.sh | bash -s -- -e
 echo "==========***************============="
-echo "==========Google Chrome installed============="
+echo "==========Postman installed============="
 echo "==========***************============="
 echo
 echo "==========***************============="
